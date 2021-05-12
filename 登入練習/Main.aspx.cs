@@ -19,7 +19,6 @@ namespace 登入練習
                 Response.Redirect("game");
             }
         }
-        // aasdsdsd
         protected void login_Click(object sender, EventArgs e)
         {
             if (user.Text == "user")
